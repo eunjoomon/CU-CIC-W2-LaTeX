@@ -3,6 +3,9 @@ Abstrac
 Introduction
 
 Content 1
+FLoC is the abbreviation ‘Federated Learning of Cohorts’ This tech Instead of exposing details of individual users to advertisers, multiple users of similar interests are grouped into groups such as soccer fans, truck drivers, retired travelers, and others. Formerly, this kind of Google ads tech using cookies for user custom ads. Cookies divide two types First-party and Third-party. The first-party cookie published a user-visited website. The first-party cookie mostly uses for fast log-in. The problem is third-party cookies.
+Google noticed end of third-party cookies. Cookies are small text files carry like Site usage details and Login History. Digital advertising companies use cookies for custom ads that are called a third-party cookie. Google acknowledges replacing from (only third-party) cookies to FLoC. These Google’s announcement is contradictory. Cause FLoC also has critical issues. Third-party Cookies save their own user's computers and send to ads companies for custom ads. Third-party cookies can include user’s privacy information. It means personal information can leakage. It is being an issue. Google’s assertation FLoC can remove these leakage issues. However, FLoC has similar issues. FLoC designates personal Cohort ID and groups users to share custom ads. These being issues. Cohort ID makes it easier to track a specific user.
+
 
 Content 2
 
