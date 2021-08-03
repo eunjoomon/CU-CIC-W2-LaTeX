@@ -9,6 +9,17 @@ Google noticed end of third-party cookies. Cookies are small text files carry li
 
 Content 2
 
+As FLoC has those alternatives compared to the traditional cookies, Google offers much effort on popularizing such technologies. 
+To illustrate further, cookies, especially 3rd party cookies were used to perform targeted advertising by websites as it usually contains previous website history. 
+Implementing FLoC may remove such privacy concerns by analyzing such history in local computers, using a sandbox that data brokers and ad-tech giants may not observe or track. 
+FLoC may produce acceptable data of user interests of about 95% performance of cookies while ensuring strong anonymity. 
+The cohort algorithms of FLoC API are evaluated to have 350% improvement in recall and 70% improvement in precision, compared to random user grouping. [1] 
+
+Google is being considered to collect an excessive amount of personal data for evaluation and advertisement use, 
+thus developing and spreading FLoC would lower such concerns and promote themselves to assure user privacy, while replacing 3rd party cookies with it. 
+They already have integrated those features in their Chrome browser, however, this also became one of the issues of FLoC.
+
+
 Content 3
 Problem and concern of FLoC
 Nowadays, there is a lot of criticism about the FLoC. There are three main reasons for this: First, the FLoC has not achieved its most important goal of preventing invasion of privacy. This technology has not solved the fundamental problem of targeted advertising. Also, it has a narrow scope and only Google Chrome gets benefits.
