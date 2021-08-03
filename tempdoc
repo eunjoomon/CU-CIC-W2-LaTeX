@@ -3,9 +3,13 @@ Abstrac
 Introduction
 
 Content 1
-FLoC is the abbreviation ‘Federated Learning of Cohorts’ This tech Instead of exposing details of individual users to advertisers, multiple users of similar interests are grouped into groups such as soccer fans, truck drivers, retired travelers, and others. Formerly, this kind of Google ads tech using cookies for user custom ads. Cookies divide two types First-party and Third-party. The first-party cookie published a user-visited website. The first-party cookie mostly uses for fast log-in. The problem is third-party cookies.
-Google noticed end of third-party cookies. Cookies are small text files carry like Site usage details and Login History. Digital advertising companies use cookies for custom ads that are called a third-party cookie. Google acknowledges replacing from (only third-party) cookies to FLoC. These Google’s announcement is contradictory. Cause FLoC also has critical issues. Third-party Cookies save their own user's computers and send to ads companies for custom ads. Third-party cookies can include user’s privacy information. It means personal information can leakage. It is being an issue. Google’s assertation FLoC can remove these leakage issues. However, FLoC has similar issues. FLoC designates personal Cohort ID and groups users to share custom ads. These being issues. Cohort ID makes it easier to track a specific user.
-
+FLoC is the abbreviation ‘Federated Learning of Cohorts’ This tech Instead of exposing details of individual users to advertisers. Google has announced that it will end support for 3rd-party cookies.
+3-party cookies are small files of demographic information that are installed on an Internet user's computer through the server that the site is using when a user visits a website.
+Cookies are divided into 1st-party cookies and 3rd-party cookies.
+1st-party cookies are used by website operators and 3rd-party cookies are mostly used by advertising companies.
+Google's argument suggested a FLoC terminate and replace these 3rd-party cookies because 3rd-party cookies have privacy issues.
+Subsequently, advertising targeting can be performed based on some of the groups to which the user belongs.
+3rd-party Cookie provides customized advertising using search records stored in a user's browser, and FLoC provides customized advertising by granting individual cohort IDs to each user and then including them in groups that fit their interests. More simply, cookies use personal records to tailor advertisements to individuals, and FLoC groups users to advertise what the group is interested in.
 
 Content 2
 
