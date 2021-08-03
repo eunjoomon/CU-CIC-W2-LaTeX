@@ -6,6 +6,7 @@ However, a change is generating in this way that has been used for a long time.
 Google is driving this change. They want to change the way people are tracked around the web, and given the widespread use of its Chrome browser, 
 the shift could have significant security and privacy implications. But the idea has been less well-received by companies that aren't Google.
 
+
 Content 1
 FLoC is the abbreviation ‘Federated Learning of Cohorts’ This tech Instead of exposing details of individual users to advertisers. Google has announced that it will end support for 3rd-party cookies.
 3-party cookies are small files of demographic information that are installed on an Internet user's computer through the server that the site is using when a user visits a website.
@@ -15,8 +16,11 @@ Google's argument suggested a FLoC terminate and replace these 3rd-party cookies
 Subsequently, advertising targeting can be performed based on some of the groups to which the user belongs.
 3rd-party Cookie provides customized advertising using search records stored in a user's browser, and FLoC provides customized advertising by granting individual cohort IDs to each user and then including them in groups that fit their interests. More simply, cookies use personal records to tailor advertisements to individuals, and FLoC groups users to advertise what the group is interested in.
 
+
 Content 2
 
+
+Content 3
 As FLoC has those alternatives compared to the traditional cookies, Google offers much effort on popularizing such technologies. 
 To illustrate further, cookies, especially 3rd party cookies were used to perform targeted advertising by websites as it usually contains previous website history. 
 Implementing FLoC may remove such privacy concerns by analyzing such history in local computers, using a sandbox that data brokers and ad-tech giants may not observe or track. 
@@ -29,12 +33,13 @@ thus developing and spreading FLoC would lower such concerns and promote themsel
 They already have integrated those features in their Chrome browser, however, this also became one of the issues of FLoC.
 
 
-Content 3
+Content 4
 Problem and concern of FLoC
 Nowadays, there is a lot of criticism about the FLoC. There are three main reasons for this: First, the FLoC has not achieved its most important goal of preventing invasion of privacy. This technology has not solved the fundamental problem of targeted advertising. Also, it has a narrow scope and only Google Chrome gets benefits.
 Google claims to assign thousands of users to cohort IDs to prevent individual users from being tracked, but even in this case, it provides a significant element in configuring fingerprinting. Google used 8-bit cohort IDs in its proof of concept, and it is anticipated to be more than 16 bits after they are introduced. The problem is that the higher the number of cohorts, the more distinct the characteristics of a particular cohort, and the longer the identity of a cohort group, the more specific the advertiser can take about the user. In addition, although the cohort ID does not work as an identifier, an operator that has already identified a particular user can obtain additional user browsing data once a week via the cohort ID. As they pile up in the long run, they can be weapons that allow users to know exactly what changes their behaviour patterns are. In particular, site operators who know information such as users' email addresses can add new privacy items by incorporating information acquired through FLoC into users' profiles. 
 Next, there is a problem with the targeted advertising itself. Target advertising is a business way in which advertisers reach certain people in a way that excludes some people. In this way, some may experience discrimination, such as not being able to access job openings and others not being offered better loan terms. Since the FLoC will form a group using an "unsupervised algorithm", it is impossible to completely prevent people from becoming part of a group that reflects an individual's sensitive characteristics. Google said it would monitor the results of the system to see if there is any association with sensitive categories, but it is not clear how long it will take to resolve them as something that has been done before. 
 Since FLoC only applies to Chrome browser, it still leaves privacy breaches and user tracking problems in cross-browser, cross-device, and offline data. In addition, there is a controversy that Google is a monopoly of the market in that it is both the operator of Chrome and the largest provider of targeted advertising. Moreover, advertising companies are reluctant to FLoC because detailed targeting is not possible and standard marketing techniques are not available. Examples are techniques that control the type of advertisement and the number of exposures, which are important because they have a great connection with the effect of advertising.
+
 
 Conclusion
 
