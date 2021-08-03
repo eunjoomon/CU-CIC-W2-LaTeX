@@ -62,5 +62,6 @@ Since FLoC only applies to Chrome browser, it still leaves privacy breaches and 
 
 
 Conclusion
+These days, with a growing awareness of privacy, there are also many complaints about targeted advertising using cookies. So while many browsers offer options to block cookies, Google introduced FLoC as a solution. It seems at first glance a way to protect privacy, but in reality, it is still an incomplete means of having a lot of hurdles. As a representative, the explanation of who has access to the information contained in the cohort ID and how it will be shared other than JavaScript is insufficient. Also, it is unclear how many cohorts will be divided into and when the fingerprint blocking plan, which is still in its early stages, will be completed. But the biggest complaints at the moment is that Google is testing Chrome users in an opt-out way. This is because Google can infringe on their privacy when users are not aware of it. Google should consider more about the current situation and improve it.
 
 References
