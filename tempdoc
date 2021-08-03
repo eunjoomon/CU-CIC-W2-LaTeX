@@ -16,7 +16,8 @@ Content 2
 As FLoC has those alternatives compared to the traditional cookies, Google offers much effort on popularizing such technologies. 
 To illustrate further, cookies, especially 3rd party cookies were used to perform targeted advertising by websites as it usually contains previous website history. 
 Implementing FLoC may remove such privacy concerns by analyzing such history in local computers, using a sandbox that data brokers and ad-tech giants may not observe or track. 
-FLoC may produce acceptable data of user interests of about 95% performance of cookies while ensuring strong anonymity. 
+It says it is delivering 95% of the conversions per dollar spent when compared to cookie-based advertising while ensuring strong anonymity. 
+The effectiveness varies by the strength of the clustering algorithm and the strength of the targeted interest. 
 The cohort algorithms of FLoC API are evaluated to have 350% improvement in recall and 70% improvement in precision, compared to random user grouping. [1] 
 
 Google is being considered to collect an excessive amount of personal data for evaluation and advertisement use, 
