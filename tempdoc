@@ -29,7 +29,7 @@ The cohort algorithms of FLoC API are evaluated to have 350% improvement in reca
 Google is being considered to collect an excessive amount of personal data for evaluation and advertisement use, 
 thus developing and spreading FLoC would lower such concerns and promote themselves to assure user privacy, while replacing third-party cookies with it. 
 
-Based on the previous research and experiments using developer edition [3], Google have already integrated those features in their Chrome browser starting from the version 89. [4] [5], However, this also became one of the issues of FLoC.
+Based on the previous research and experiments using developer edition [3], Google has already integrated those features in their Chrome browser starting from version 89. [4] [5]. However, this also became one of the issues of FLoC.
 
 (임시레퍼)
 [1] https://blog.google/products/ads-commerce/2021-01-privacy-sandbox/
